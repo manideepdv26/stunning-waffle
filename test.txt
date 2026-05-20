@@ -2,6 +2,6 @@ Telangana[a] is a state in southern India on the Deccan Plateau bordering Mahara
 
 git config user.email "manideep@datavalley.ai"
 
-git config user.name "Manideep"
+git config user.name "Charan"
 
 According to the Rigveda's Aitareya Brahmana, the region corresponding to Telangana has been inhabited by the Andhras since at least the 9th century BCE with the later Satavahana dynasty, who ruled over the entire Deccan Plateau, establishing trade relations as far as the Roman Empire. Subsequent major dynasties include the Vishnukundinas, Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire, and Qutb Shahis, followed by the British Raj. Following the Independence of India, the Telugu speaking regions of India were gradually regrouped within the state of Andhra Pradesh but after decades of protests and agitations, the Telangana movement obtained its bifurcation with the creation, in 2014, of the state of Telangana corresponding to the Telugu speaking regions of the Princely State of Hyderabad.
